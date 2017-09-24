@@ -80,6 +80,7 @@ article.post:last-of-type {
   display: block;
   text-decoration: none;
   color: #9E9E9E;
+  text-transform: capitalize;
 }
 
 .site-header nav ul li a:hover {
