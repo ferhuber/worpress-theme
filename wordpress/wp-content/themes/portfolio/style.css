@@ -38,6 +38,10 @@ article.post {
 
 }
 
+div.main-page{
+  margin-top: 2vh
+}
+
 article.post:last-of-type {
   border-bottom: none;
 }
