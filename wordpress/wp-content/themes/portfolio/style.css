@@ -81,7 +81,7 @@ article.post:last-of-type {
 .site-header nav ul li a:visited {
   display: block;
   padding: 10px 18px;
-  border: 1px solid #BBB;
+  /*border: 1px solid #BBB;*/
   text-decoration: none;
 }
 
@@ -96,8 +96,8 @@ h4 {
 
 .site-header nav ul li.current-menu-item a:link,
 .site-header nav ul li.current-menu-item a:visited {
-  background-color: #006ec3;
-  color: #FFF;
+  /*background-color: #006ec3;*/
+  color: #9E9E9E;
 }
 
 /*Special Template */
@@ -110,6 +110,3 @@ div.info-box {
   text-align: center;
 }
 h4 {color: #ff9800;}
-
-
-/*wp post image*/
