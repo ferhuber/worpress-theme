@@ -14,11 +14,14 @@
   <header class="site-header">
     <!-- <h1><?php bloginfo('name'); ?></h1> -->
     <!-- <h5><?php bloginfo('description'); ?></h5> -->
-    <nav class="logo">
-      <p>page logo</p>
-    </nav>
+    <nav >
 
-    <nav class="site-nav">
+      <div class="logo">
+        <p>page logo</p>
+
+      </div>
+
+    <div class="site-nav">
       <?php
 
       $args = array(
@@ -27,5 +30,6 @@
 
       ?>
       <?php wp_nav_menu( $args); ?>
+    </div>
     </nav>
  </header>
