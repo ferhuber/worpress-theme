@@ -9,10 +9,8 @@ if (have_posts()) :
 
 
   <article class="post">
-    <div class="main-page">
     <h2><?php the_title(); ?></h2>
     <?php the_content(); ?>
-  </div>
   </article>
 
   <?php endwhile;
