@@ -6,10 +6,14 @@ get_header();
 if (have_posts()) :
   while (have_posts()) : the_post(); ?>
 
+  <div class="main-page">
+
+
   <article class="post">
     <h2><?php the_title(); ?></h2>
     <?php the_content(); ?>
   </article>
+</div>
 
   <?php endwhile;
 
@@ -17,8 +21,6 @@ if (have_posts()) :
     echo '<p>No content found</p>';
 
  endif;
-
 get_footer();
 
 ?>
-
