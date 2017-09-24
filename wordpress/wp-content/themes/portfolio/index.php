@@ -7,7 +7,7 @@ if (have_posts()) :
   while (have_posts()) : the_post(); ?>
 
   <article class="post">
-<h1> test </h1>
+<h1> test!!! </h1>
 
     <?php the_post_thumbnail(); ?>
     <h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
@@ -18,7 +18,7 @@ if (have_posts()) :
 
   else :
     echo '<p>No content found</p>';
- 
+
  endif;
 
 get_footer();
