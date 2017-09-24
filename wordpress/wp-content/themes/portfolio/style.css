@@ -83,10 +83,12 @@ article.post:last-of-type {
   padding: 10px 18px;
   /*border: 1px solid #BBB;*/
   text-decoration: none;
+  color: #9E9E9E
 }
 
 .site-header nav ul li a:hover {
-  background-color: #ECECEC
+  /*background-color: #ECECEC*/
+  color: #6c6a6a
 }
 
 h4 {
@@ -97,7 +99,7 @@ h4 {
 .site-header nav ul li.current-menu-item a:link,
 .site-header nav ul li.current-menu-item a:visited {
   /*background-color: #006ec3;*/
-  color: #9E9E9E;
+  color: #6c6a6a;
 }
 
 /*Special Template */
