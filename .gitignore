@@ -1,3 +1,9 @@
-
-wordpress/*
-! wordpress/wp-content/themes/portfolio/*
+# wordpress/*
+wordpress/wp-includes        
+wordpress/*.php
+wordpress/wp-admin/*
+wordpress/wp-content/plugins/*
+wordpress/wp-content/themes/twentyfifteen/*  
+wordpress/wp-content/themes/twentyseventeen/*  
+wordpress/wp-content/themes/twentysixteen/*
+ 
