@@ -24,7 +24,10 @@ p {
 
 /* Header*/
 
-.site-header { float: right;}
+.site-nav { float: right;}
+.logo { float: left;
+width: 100px;
+background-color: red}
 
 /* General Layout */
 
