@@ -6,14 +6,14 @@ get_header();
 if (have_posts()) :
   while (have_posts()) : the_post(); ?>
 
-  <div class="main-page">
 
 
   <article class="post">
+    <div class="main-page">
     <h2><?php the_title(); ?></h2>
     <?php the_content(); ?>
+  </div>
   </article>
-</div>
 
   <?php endwhile;
 
