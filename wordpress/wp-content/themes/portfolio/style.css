@@ -32,8 +32,8 @@ div.container {
 }
 
 article.post {
-  border-bottom: 2px dotted #bbbbbb;
-  border-top: 2px solid #bbbbbb;
+  /*border-bottom: 2px dotted #bbbbbb;*/
+  /*border-top: 2px solid #bbbbbb;*/
   margin-top: 56px;
 
 }
