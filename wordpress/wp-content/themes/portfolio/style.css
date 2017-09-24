@@ -80,15 +80,12 @@ article.post:last-of-type {
 .site-header nav ul li a:link,
 .site-header nav ul li a:visited {
   display: block;
-  /*padding: 0px 2%;*/
-  /*border: 1px solid #BBB;*/
-  margin-right: 2%
+  margin-right: 2%;
   text-decoration: none;
-  color: #9E9E9E
+  color: #9E9E9E;
 }
 
 .site-header nav ul li a:hover {
-  /*background-color: #ECECEC*/
   color: #6c6a6a
 }
 
