@@ -10,6 +10,7 @@ if (have_posts()) :
 
 
   <article class="post">
+    <h1>about me</h1>
     <h2><?php the_title(); ?></h2>
     <?php the_content(); ?>
   </article>
