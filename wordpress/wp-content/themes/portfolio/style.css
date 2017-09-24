@@ -40,11 +40,6 @@ article.post:last-of-type {
   border-bottom: none;
 }
 
-/* Header
-.site-header {
-  border-bottom: 2px solid #999;
-}*/
-
 /* Footer */
 
 .site-footer {
@@ -108,7 +103,3 @@ h4 {color: #ff9800;}
 
 
 /*wp post image*/
-
-.wp-post-image img{
-  width: 100%;
-}
