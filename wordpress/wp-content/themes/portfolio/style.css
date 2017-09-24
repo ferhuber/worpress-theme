@@ -33,18 +33,18 @@ div.container {
   margin: 0 auto;
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 2vh;
 }
 
 article.post {
   /*border-bottom: 2px dotted #bbbbbb;*/
   /*border-top: 2px solid #bbbbbb;*/
-  margin-top: 56px;
 
 }
 
-div.main-page{
+/*div.main-page{
   padding-top: 2vh
-}
+}*/
 
 article.post:last-of-type {
   border-bottom: none;
