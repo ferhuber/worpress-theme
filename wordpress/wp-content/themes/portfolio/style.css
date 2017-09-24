@@ -25,9 +25,7 @@ p {
 /* Header*/
 
 .site-nav { float: right;}
-.logo { float: left;
-width: 100px;
-background-color: red}
+.logo { float: left; width: 20%;}
 
 /* General Layout */
 
@@ -45,6 +43,7 @@ article.post {
 
 }
 
+.main-page { padding-top: 10vh}
 
 
 article.post:last-of-type {
