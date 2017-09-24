@@ -78,7 +78,6 @@ article.post:last-of-type {
 .site-header nav ul li a:link,
 .site-header nav ul li a:visited {
   display: block;
-  margin-right: 2%;
   text-decoration: none;
   color: #9E9E9E;
 }
